@@ -25,6 +25,9 @@ Firebase examples for Android
 	```
 		//https://firebase.google.com/docs/crash/android
 		compile 'com.google.firebase:firebase-crash:9.6.0'
+		
+		//SDK 23 and gradle 2.1.x use version firebase-crash:9.2.0
+		 compile 'com.google.firebase:firebase-crash:9.2.0'
 	```
 
 	```...
