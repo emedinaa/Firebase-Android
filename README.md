@@ -1,4 +1,4 @@
-# Firebase-Android
+## Firebase-Android
 Firebase examples for Android
 
 1. Firebase console https://console.firebase.google.com/
@@ -35,6 +35,8 @@ Firebase examples for Android
 8. Copy google-service.json file in app folder and sync project.
 9. Generating an error in App and check the firebase console 
 
-References 
+# References:
+	
 	- Firebase Android [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
+	
 	- Github [https://github.com/firebase/quickstart-android](https://github.com/firebase/quickstart-android)
