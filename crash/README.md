@@ -1,14 +1,13 @@
 ## Firebase Crash Reporting Android
 Firebase examples for Android
 
-1. Firebase console https://console.firebase.google.com/
-2. Create new Project 
-3. Select the DEVELOP option and then the 'Crash' 
-4. Add Firebase to aplication of Android
+1. Create new Project in the Firebase console [https://console.firebase.google.com/](https://console.firebase.google.com/)
+2. Select the DEVELOP option and then the 'Crash' 
+3. Add Firebase to aplication of Android
 	- Package name "com.emedina.firebaseexamples"
-5. Download google-services.json file
-6. Create new Android Project
-7. Add dependencies to build.gradle of project and android App
+4. Download google-services.json file
+5. Create new Android Project
+6. Add dependencies to build.gradle of project and android App
 
 	- build.gradle project
 	```
