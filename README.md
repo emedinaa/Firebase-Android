@@ -35,7 +35,9 @@ Firebase examples for Android
 8. Copy google-service.json file in app folder and sync project.
 9. Generating an error in App and check the firebase console 
 
-### References:
+  <img src="https://github.com/emedinaa/Firebase-Android/blob/master/screenshot.png" height="480">
+  
+References:
 	
 	- Firebase Android [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
 	
