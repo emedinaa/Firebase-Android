@@ -39,6 +39,6 @@ Firebase examples for Android
   
 References:
 	
-	- Firebase Android [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
+- Firebase Android [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
 	
-	- Github [https://github.com/firebase/quickstart-android](https://github.com/firebase/quickstart-android)
+- Github [https://github.com/firebase/quickstart-android](https://github.com/firebase/quickstart-android)
