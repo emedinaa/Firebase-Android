@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1065004548344",
+    "firebase_url": "https://fir-android-92f0d.firebaseio.com",
+    "project_id": "fir-android-92f0d",
+    "storage_bucket": "fir-android-92f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065004548344:android:bb9e4bf73ba0ab48",
+        "android_client_info": {
+          "package_name": "com.emedina.firebaseexamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065004548344-a5473a6prhek2tgkrg3300bhpf6eo6pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQfLd2Tj4KWFoA03_6GXTyTYKwREqP_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
