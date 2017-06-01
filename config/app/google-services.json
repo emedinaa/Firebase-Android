@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "12206967858",
+    "firebase_url": "https://rugged-timer-762.firebaseio.com",
+    "project_id": "rugged-timer-762",
+    "storage_bucket": "rugged-timer-762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12206967858:android:adc2dc20c1cea45e",
+        "android_client_info": {
+          "package_name": "com.gmd.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12206967858-vjf17u261rrku7nf3ud81if2un9co43v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA50t-72TcYKcL1bN2eBmzJgqBCiWZ2qrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12206967858:android:eddef00f8bd18e11",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.config"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12206967858-vjf17u261rrku7nf3ud81if2un9co43v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA50t-72TcYKcL1bN2eBmzJgqBCiWZ2qrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
